@@ -1,0 +1,66 @@
+@font-face{ 
+	font-family: Colonna MT;
+	src:url(../fonts/Colonna MT.ttf);
+}
+body{
+	margin: 0px; 
+	padding: 10px;
+}
+h1{
+	font-style: cursive;
+    background-size: white;
+	padding: 10px;
+	font-family: "Georgia" ;
+	font-size: 60px;
+	text-align: center;
+}
+aside{
+	margin: 20px;
+	margin-left: 20px;
+	margin-right: 20px;
+	margin-top: 20px;
+	text-align: center;
+}
+header{
+	background-color: #FF69B4;
+    font-family: Colonna MT;
+
+}
+#lista1{
+	list-style-type: none; 
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+}
+p{
+	text-align: center;
+	margin-right: 20px;
+	font-size: 20px;
+	color: white;
+	text-align: center;
+}
+li a{
+font-size: 40px;
+float:left;
+display: block;
+color: white;
+padding: 20px 120px; 
+text-decoration: none;
+}
+li a:hover{
+	float: left;
+	display: block;
+	color: white;
+	padding: 16px 80px;
+	text-decoration: none;
+	margin-left: 15px;
+}
+footer{
+	clear: both;
+	background-color: #BA55D3;
+    padding: 30px;
+    text-align: center;
+}
+.centraricon{
+	padding-right: 5px;
+}

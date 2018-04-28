@@ -1,0 +1,33 @@
+body{
+	margin: 0;
+	}
+	header{
+		background-color: #A52A2A;
+	}
+h1{
+    color: white;
+    margin: 20px;
+	padding: 10px;
+	font-family: "Georgia" ;
+	font-size: 60px;
+	text-align: center;
+	}
+	article{
+		margin: 10px;
+	    padding: 10px;
+	    margin-left: 50px;
+	    margin-right: 20px;
+	    }
+	    .zoom:hover{
+	transform: scale(2);
+	    }
+footer{
+	clear: both;
+	background-color: #A52A2A;
+    padding: 30px;
+    text-align: center;
+}
+.centraricon{
+	padding-right: 5px;
+}
+	
